@@ -1,9 +1,8 @@
-### Hi there 👋, my name is Brian Mutinda
-#### Software developer
+### Hi there 👋 stranger, 
 ![Software developer](https://pbs.twimg.com/profile_banners/1483380654846926848/1646724400/600x200)
 
 ### Brief introduction
-I am Brian, from Nairobi Kenya. I develop websites and mobile applications. 
+My name is Brian Mtutinda a software developer from Nairobi Kenya with more than 3 years experience. I develop websites and mobile applications. 
 
 You can view some of my projects [here on my portfolio](https://brianmutinda.netlify.com)
 
