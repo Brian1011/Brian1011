@@ -1,5 +1,5 @@
 ### Hi there 👋 stranger, 
-![Software developer](https://pbs.twimg.com/profile_banners/1483380654846926848/1646724400/600x200)
+![Software developer](https://pbs.twimg.com/profile_banners/1483380654846926848/1671131816/600x200)
 
 ### Brief introduction
 My name is Brian Mtutinda a software developer from Nairobi Kenya with more than 3 years experience. I develop websites and mobile applications. 
