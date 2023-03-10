@@ -8,8 +8,7 @@ You can view some of my projects [here on my portfolio](https://brianmutinda.net
 
 I consider myself as a creative and an individual who is driven by curiosity 🐈 😉.
 
-- 😄 Pronouns: He / Him 
-<!-- 🌱 I’m currently learning and improving my software engineering knowledge.-->
+- 😄 Pronouns: He / Him  <!-- 🌱 I’m currently learning and improving my software engineering knowledge.-->
 - 👯 I’m looking to collaborate on Flutter open source projects 
 - 📖 I write tech articles on [medium](https://medium.com/@brianmutinda49)
 - ⚡ Fun fact: I enjoy playing angry birds
