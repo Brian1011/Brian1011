@@ -2,21 +2,21 @@
 ![Software developer](https://pbs.twimg.com/profile_banners/1483380654846926848/1671131816/600x200)
 
 ### Brief introduction
-My name is Brian Mtutinda a software developer from Nairobi Kenya with more than 3 years experience. I develop websites and mobile applications. 
+My name is Brian Mutinda a software engineer from Nairobi Kenya with over 3 years experience. I develop mobile applications for both Android and iOS applications.
 
 You can view some of my projects [here on my portfolio](https://brianmutinda.netlify.com)
 
 I consider myself as a creative and an individual who is driven by curiosity 🐈 😉.
 
 - 😄 Pronouns: He / Him 
-- 🌱 I’m currently learning React.js 
+<!-- 🌱 I’m currently learning and improving my software engineering knowledge.-->
 - 👯 I’m looking to collaborate on Flutter open source projects 
 - 📖 I write tech articles on [medium](https://medium.com/@brianmutinda49)
 - ⚡ Fun fact: I enjoy playing angry birds
 
 ### Skills
 * 📱 Flutter
-* 💻 Next.js and Tailwind CSS
+* 💻 Tailwind CSS
 * 💻 Figma
 
 ### Socials & my portfolio
