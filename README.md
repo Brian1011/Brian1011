@@ -2,7 +2,7 @@
 ![Software developer](https://pbs.twimg.com/profile_banners/1483380654846926848/1671131816/600x200)
 
 ### Brief introduction
-My name is Brian Mutinda a software engineer from Nairobi Kenya with over 3 years experience. I develop mobile applications for both Android and iOS applications.
+My name is Maingi Brian a software engineer from Nairobi Kenya with over 3 years experience. I develop mobile applications for both Android and iOS applications.
 
 You can view some of my projects [here on my portfolio](https://brianmutinda.netlify.com)
 
