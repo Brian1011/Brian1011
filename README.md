@@ -46,35 +46,13 @@ https://www.linkedin.com/posts/brian-mutinda-366064163_rubyonrails-fullstackengi
 <hr/>
 
 ### How I work
+- I value clarity over cleverness.
 
-I value clarity over cleverness
+- I prefer simple, maintainable architectures.
 
-I prefer simple, maintainable architectures
+- I use AI tools to move faster without lowering quality.
 
-I use AI tools to move faster without lowering quality
-
-I enjoy async, ownership-driven teams
+- I enjoy async, ownership-driven teams.
 
 <hr/>
 
-I consider myself as a creative and an individual who is driven by curiosity 🐈 😉.
-
-- 😄 Pronouns: He / Him  <!-- 🌱 I’m currently learning and improving my software engineering knowledge.-->
-- 👯 I’m looking to collaborate on Flutter open source projects 
-- 📖 I write tech articles on [medium](https://medium.com/@brianmutinda49)
-- ⚡ Fun fact: I enjoy playing angry birds
-
-### Skills
-* 📱 Flutter
-* 💻 Tailwind CSS
-* 💻 Figma
-
-<!--[<img src="https://img.icons8.com/fluency/344/instagram-new.png" height='40'/>](https://www.instagram.com/brian_developer/)-->
-
-<!--
-### Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Brian1011&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Brian1011)  
-
-![Profile views](https://gpvc.arturio.dev/Brian1011)  -->
