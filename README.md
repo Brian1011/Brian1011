@@ -54,5 +54,4 @@ https://www.linkedin.com/posts/brian-mutinda-366064163_rubyonrails-fullstackengi
 
 - I enjoy async, ownership-driven teams.
 
-<hr/>
 
