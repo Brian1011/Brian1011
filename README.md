@@ -1,5 +1,7 @@
 ### Hi there 👋 stranger, 
-![Software developer](https://pbs.twimg.com/profile_banners/1483380654846926848/1671131816/600x200)
+<!--![Software developer](https://pbs.twimg.com/profile_banners/1483380654846926848/1671131816/600x200)-->
+
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/af868a45-0859-4b36-8cf6-536d02d3d424" />
 
 ### Brief introduction
 I’m a full-stack software engineer based in Nairobi, Kenya, with 5+ years of experience building and shipping production systems across manufacturing, fintech, analytics, and internal business tools.
